@@ -1,0 +1,14 @@
+{
+  "name": "gizmo-online-shop",
+  "version": "1.0.0",
+  "description": "This front is developed by Saman Barzegar",
+  "main": "index.js",
+  "scripts": {
+    "test": "Test"
+  },
+  "author": "Saman Barzegar",
+  "license": "MIT",
+  "devDependencies": {
+    "tailwindcss": "^3.4.0"
+  }
+}

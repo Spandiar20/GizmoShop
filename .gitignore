@@ -1,0 +1,30 @@
+# Node.js
+node_modules/
+
+# Compiled output
+dist/
+
+# Logs and databases
+logs/
+*.log
+*.sqlite
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Yarn
+yarn-error.log
+.pnp
+.pnp.js
+
+# Local development environment
+.env
+
+# Tailwind CSS build
+public/css/
+
+# Ignore the compiled CSS file, but not the source Sass files
+!src/styles/**/*.css
